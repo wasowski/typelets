@@ -1,0 +1,4 @@
+[debug] [typelets-build] Classpath dependencies List()
+[debug] [typelets-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'typelets-build' to '/home/wasowski/work/typelets/project/.bloop/typelets-build.json'
+[success] Generated .bloop/typelets-build.json
